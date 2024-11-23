@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">virtualTap</string>
+    <string name="descHomeViewImage">這是一張主頁標題圖片</string>
+    <string name="mainMenuText">主選單</string>
+    <string name="create_file">create file</string>
+    <string name="execute_setting">execute setting</string>
 </resources>
